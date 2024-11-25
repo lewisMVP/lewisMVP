@@ -2,11 +2,9 @@
 <h3 align="center">Front End developer from Hanoi, Vietnam</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn-icons-png.flaticon.com/512/4661/4661320.png">
 
-- 🔭 I’m currently working on [F1 Pit Optimizing project](f1-pit-optimize)
-
 - 🌱 I’m currently learning **ReactJS, Angular**
 
-- 📫 How to reach me **tgefps2004@gmail.**
+- 📫 How to reach me: **tgefps2004@gmail.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
