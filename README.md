@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Lewis</h1>
 <h3 align="center">Front End developer from Hanoi, Vietnam</h3>
-<img align="right" alt="Coding" width="400" src="file:///C:/Users/hungc/AppData/Local/Temp/c04f9883-f75c-47ca-83dc-4425cdf34cf6">
+<img align="right" alt="Coding" width="400" src="https://cdn-icons-png.flaticon.com/512/4661/4661320.png">
 
 - 🔭 I’m currently working on [F1 Pit Optimizing project](github.com/f1-pit-optimize)
 
