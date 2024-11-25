@@ -1,12 +1,10 @@
 <h1 align="center">Hi 👋, I'm Lewis</h1>
-<h3 align="center">A passionate FrontEnd developer from Hanoi, Vietnam</h3>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lewismvp" alt="lewismvp" /></a> </p>
+<h3 align="center">A passionate Front End developer from Hanoi, Vietnam</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/lewis chu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lewis chu" height="30" width="40" /></a>
-<a href="https://fb.com/hưng" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="hưng" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/lewis-chu-470a32329/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lewis chu" height="30" width="40" /></a>
+<a href="https://fb.com/not.hwnggg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="hưng" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
