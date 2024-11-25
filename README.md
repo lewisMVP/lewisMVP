@@ -2,6 +2,8 @@
 <h3 align="center">Front End developer from Hanoi, Vietnam</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn-icons-png.flaticon.com/512/4661/4661320.png">
 
+- 🔭 Student of **Vietnam National University - Hanoi**
+
 - 🌱 I’m currently learning **ReactJS, Angular, MongoDB**
 
 - 📫 How to reach me: **tgefps2004@gmail.**
