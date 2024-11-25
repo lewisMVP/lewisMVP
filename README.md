@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Lewis</h1>
-<h3 align="center">A passionate Front End eveloper from Hanoi, Vietnam</h3>
+<h3 align="center">A passionate Front End developer from Hanoi, Vietnam</h3>
 
 - 🔭 I’m currently working on [F1 Pit Optimizing project](github.com/f1-pit-optimize)
 
