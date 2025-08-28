@@ -1,2 +1,2 @@
-<h1 align="center">Hi, I'm Lewis Chu</h1>
-<h3>It's light out and away we go!!!</h3>
+<h1 align="center">Hi, I'm Chu Trung Hưng aka Lewis Chu</h1>
+It's light out and away we go!!!
